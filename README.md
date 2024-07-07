@@ -1,4 +1,4 @@
-# UNLIMITED CUSTOM SMS FOR BD NUMBER
+# TBB CUSTOM SMS
 
 ## Install on Termux :
 ```
