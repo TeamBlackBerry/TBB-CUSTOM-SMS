@@ -1,10 +1,21 @@
-# TBB-CUSTOM-SMS
-UNLIMITED CUSTOM SMS FOR BD NUMBER 
+## Install on Termux :
+```
+pkg update -y && pkg upgrade -y
+pkg install python -y
+pkg install python2 -y
+pkg install git -y
+pkg install pip
+pkg install pip2
+pip install colorama
+pip2 install requests
+pip2 install mechanize
+https://github.com/TeamBlackBerry/TBB-CUSTOM-SMS
+```
 
-`pkg update && pkg upgrade `
-`pip install requests `
-`pip install colorama `
-`pkg install git`
-`pkg install python`
-`git clone https://github.com/TeamBlackBerry/TBB-CUSTOM-SMS`
-`python customsms.py`
+# Run Termux:
+```
+cd TBB-CUSTOM-SMS
+
+python customsms.py
+```
+
